@@ -1,4 +1,4 @@
-package org.example.hw;
+package HW;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
