@@ -1,4 +1,4 @@
-package org.example.hw;
+package HWork;
 
 import java.math.BigDecimal;
 
